@@ -1,5 +1,7 @@
 # List in Python
 
+> Author: Himel Das
+
 List is a data structure used to store a collection of items. List is ordered, indexed, mutable, heterogeneous, and
 dynamic.
 
